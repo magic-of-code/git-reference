@@ -2,43 +2,43 @@ What the command is used for...
 
 Initializing a repository
 
-ANSWER
+git init
 
 Select files we changed
 
-ANSWER
+git commit
 
 Check for changes
 
-ANSWER
+git commit
 
 Track changes
 
-ANSWER
+git commit
 
 See the history
 
-ANSWER
+git log
 
 Start a new branch
 
-ANSWER
+git checkout -b 'name'
 
 List branches
 
-ANSWER
+git branch
 
 Change branches
 
-ANSWER
+git checkout 'name'
 
 Merge branches
 
-ANSWER
+git merge 'name'
 
 Handle conflicts
 
-ANSWER
+change issues
 
 Fork a repository
 
@@ -46,7 +46,7 @@ ANSWER
 
 Clone a repository
 
-ANSWER
+git clone
 
 Make Pull Requests
 
