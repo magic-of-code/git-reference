@@ -2,39 +2,39 @@ What the command is used for...
 
 Initializing a repository
 
-ANSWER
+ANSWER: git init
 
 Select files we changed
 
-ANSWER
+ANSWER: git add
 
 Check for changes
 
-ANSWER
+ANSWER: git status
 
 Track changes
 
-ANSWER
+ANSWER: git commit
 
 See the history
 
-ANSWER
+ANSWER: git log
 
 Start a new branch
 
-ANSWER
+ANSWER git checkout -b new-branch
 
 List branches
 
-ANSWER
+ANSWER git branch
 
 Change branches
 
-ANSWER
+ANSWER git checkout branch-name
 
 Merge branches
 
-ANSWER
+ANSWER merge branch-name
 
 Handle conflicts
 
@@ -42,12 +42,12 @@ ANSWER
 
 Fork a repository
 
-ANSWER
+ANSWER: In GitHub, click the fork button in the repository you want to fork.
 
 Clone a repository
 
-ANSWER
+ANSWER: git clone
 
 Make Pull Requests
 
-ANSWER
+ANSWER: I always do it from the GitHub web interface.
