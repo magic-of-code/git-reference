@@ -1,53 +1,40 @@
 What command is used for...
 
 Initializing a repository
-
-ANSWER
+git init
 
 Select files we changed
-
-ANSWER
+giti add
 
 Check for changes
-
-ANSWER
+git status
 
 Track changes
-
-ANSWER
+git commit
 
 See the history
-
-ANSWER
+git log
 
 Start a new branch
-
-ANSWER
+git checkout -b
 
 List branches
-
-ANSWER
+git branch
 
 Change branches
-
-ANSWER
+git checkout
 
 Merge branches
-
-ANSWER
+git merge
 
 Handle conflicts
-
-ANSWER
+remove symbols, pick what you want
 
 Fork a repository
-
-ANSWER
+git fork
 
 Clone a repository
-
-ANSWER
+git clone
 
 Make Pull Requests
-
-ANSWER
+git pull
