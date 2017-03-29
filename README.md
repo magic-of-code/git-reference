@@ -2,47 +2,47 @@ What the command is used for...
 
 Initializing a repository
 
-ANSWER
+ANSWER git init
 
 Select files we changed
 
-ANSWER
+ANSWER git add FileName
 
 Check for changes
 
-ANSWER
+ANSWER git status
 
 Track changes
 
-ANSWER
+ANSWER git commit -m "Personal Message"
 
 See the history
 
-ANSWER
+ANSWER git log
 
 Start a new branch
 
-ANSWER
+ANSWER git checkout -b NameOfNewBranch
 
-List branches
+List branches 
 
-ANSWER
+ANSWER git branch
 
 Change branches
 
-ANSWER
+ANSWER git checkout BranchName
 
 Merge branches
 
-ANSWER
+ANSWER git merge BranchName
 
 Handle conflicts
 
-ANSWER
+ANSWER buy a firearm (caution: 5-day waiting period)
 
 Fork a repository
 
-ANSWER
+ANSWER 
 
 Clone a repository
 
