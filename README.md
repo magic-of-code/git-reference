@@ -2,27 +2,27 @@ What the command is used for...
 
 Initializing a repository
 
-ANSWER
+ANSWER git init
 
 Select files we changed
 
-ANSWER
+ANSWER cd name
 
 Check for changes
 
-ANSWER
+ANSWER git diff  git status
 
 Track changes
 
-ANSWER
+ANSWER git commit -m
 
 See the history
 
-ANSWER
+ANSWER git log
 
 Start a new branch
 
-ANSWER
+ANSWER 
 
 List branches
 
